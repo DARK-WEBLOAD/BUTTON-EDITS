@@ -25,6 +25,23 @@ class script(object):
 
 <b>DEVS:</b>
 - <a href=https://t.me/DARKWEBLOAD>ᎮᏒᎧᎦᏋᏕᎧᏒ</a>"""
+    ADMIN_TXT = """Help: <b>Admin Mods</b>
+
+<b>NOTE:</b>
+This module only works for my admins
+
+<b>Commands and Usage:</b>
+• /logs - to get the rescent errors.
+• /stats - to get status of files in db.
+• /delete - to delete a specific file from db.
+• /users - to get list of my users and ids.
+• /chats - to get list of the my chats and ids.
+• /leave - to leave from a chat.
+• /disable - do disable a chat.
+• /ban_users - to ban a user.
+• /unban_users - to unban a user.
+• /channel - to get list of total connected channels.
+• /broadcast - to broadcast a message to all users."""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
